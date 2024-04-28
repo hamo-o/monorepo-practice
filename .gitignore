@@ -33,3 +33,7 @@ yarn-error.log*
 
 # turbo
 .turbo
+
+## Panda
+styled-system
+styled-system-studio
